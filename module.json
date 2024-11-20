@@ -1,27 +1,36 @@
 {
-  "name": "coc7-babele-de",
+  "id": "coc7-babele-de",
   "title": "Translation: Deutsch (Call of Cthulhu 7th edition)",
   "description": "Deutsche Übersetzung für Call of Cthulhu",
   "version": "0.1",
-  "minimumCoreVersion" : "12",
-  "compatibleCoreVersion":"12",
-  "author": "Do660",
-  "esmodules": ["babele-register.js"],
-  "scripts": [],
-  "styles": [],
-  "dependencies": [
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
     {
-      "name": "babele",
-      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "2.5.6"
-    },
-    {
-      "name": "CoC7",
-      "type": "system",
-      "version": "7.4"
+      "name": "Do660"
     }
   ],
-  "packs": [],
+  "esmodules": ["babele-register.js"],
+  "relationships": {
+    "systems": [{
+      "id": "CoC7",
+      "type": "system",
+      "manifest": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/releases/latest/download/system.json",
+      "compatibility": {
+        "verified": "7.4"
+      }
+    }],
+    "requires": [{
+      "id": "babele",
+      "type": "module",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "compatibility": {
+        "verified": "2.5.6"
+      }
+    }]
+  },
   "languages": [
     {
       "lang": "de",
@@ -30,8 +39,6 @@
     }
   ],
   "system": "CoC7",
-  "systemVersion": "7.4",
   "url": "https://github.com/Do660/coc7-babele-de",
-  "manifest": "https://raw.githubusercontent.com/Do660/coc7-babele-de/main/module.json",
-  "download": "https://github.com/Do660/coc7-babele-de/archive/main.zip"
+  "manifest": "https://raw.githubusercontent.com/Do660/coc7-babele-de/main/module.json"
 }
