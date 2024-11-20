@@ -1,0 +1,417 @@
+{
+	"label": "Fähigkeiten",
+	"entries": {
+		"Accounting": {
+			"name": "Buchhaltung",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Animal Handling": {
+			"name": "Tierpflege",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Anthropology": {
+			"name": "Anthropologie",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Appraise": {
+			"name": "Schätzen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Archaeology": {
+			"name": "Archäologie",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Art/Craft (Acting)": {
+			"name": "Kunst/Handwerk (Schauspiel)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Art/Craft (Any)": {
+			"name": "Kunst/Handwerk (Beliebig)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Art/Craft (Fine Art)": {
+			"name": "Kunst/Handwerk (Schöne Kunst)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Art/Craft (Forgery)": {
+			"name": "Kunst/Handwerk (Fälschung)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Art/Craft (Photography)": {
+			"name": "Kunst/Handwerk (Fotografie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Charm": {
+			"name": "Charme",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Civics": {
+			"name": "Staatskunde",
+			"description": "<p>Siehe das Cthulhu Invictus</p>"
+		},
+		"Climb": {
+			"name": "Klettern",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Computer Use": {
+			"name": "Computerbenutzung",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Credit Rating": {
+			"name": "Kreditwürdigkeit",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Cthulhu Mythos": {
+			"name": "Cthulhu-Mythos",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Demolitions": {
+			"name": "Sprengstoff",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Disguise": {
+			"name": "Verkleidung",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Diving": {
+			"name": "Tauchen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Dodge": {
+			"name": "Ausweichen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Drive Auto": {
+			"name": "Auto fahren",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Drive Carriage": {
+			"name": "Kutsche lenken",
+			"description": "<p>Siehe das Cthulhu by Gaslight</p>"
+		},
+		"Drive Horse / Oxen": {
+			"name": "Pferde/Ochsen lenken",
+			"description": "<p>Siehe das Cthulhu Invictus</p>"
+		},
+		"Drive Wagon / Coach": {
+			"name": "Wagen/Coach lenken",
+			"description": "<p>Siehe das Down Darker Trails Regelbuch</p>"
+		},
+		"Electrical Repair": {
+			"name": "Elektrik reparieren",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Electronics": {
+			"name": "Elektronik",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Empire": {
+			"name": "Imperium",
+			"description": "<p>Siehe das Cthulhu Invictus</p>"
+		},
+		"Fast Talk": {
+			"name": "Überreden",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Fighting (Any)": {
+			"name": "Kampf (Beliebig)",
+			"description": "<p>In Berufen/Archetypen verwenden, um eine Kampffertigkeit auszuwählen</p>"
+		},
+		"Fighting (Axe)": {
+			"name": "Kampf (Axt)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Edition Regelbuch</p>"
+		},
+		"Fighting (Brawl)": {
+			"name": "Kampf (Raufen)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Fighting (Chainsaw)": {
+			"name": "Kampf (Kettensäge)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Fighting (Flail)": {
+			"name": "Kampf (Flegel)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Fighting (Garrote)": {
+			"name": "Kampf (Würgedraht)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Fighting (Spear)": {
+			"name": "Kampf (Speer)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Fighting (Sword)": {
+			"name": "Kampf (Schwert)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Fighting (Throw)": {
+			"name": "Kampf (Werfen)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Fighting (Whip)": {
+			"name": "Kampf (Peitsche)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Firearms (Any)": {
+			"name": "Feuerwaffen (Beliebig)",
+			"description": "<p>In Berufen / Archetypen verwenden, um eine Feuerwaffen-Fertigkeit auszuwählen</p>"
+		},
+		"Firearms (Artillery)": {
+			"name": "Feuerwaffen (Artillerie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Firearms (Bow)": {
+			"name": "Feuerwaffen (Bogen)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Firearms (Flamethrower)": {
+			"name": "Feuerwaffen (Flammenwerfer)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Firearms (Handgun)": {
+			"name": "Feuerwaffen (Pistole)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Firearms (Heavy Weapons)": {
+			"name": "Feuerwaffen (Schwere Waffen)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Firearms (Machine Gun)": {
+			"name": "Feuerwaffen (Maschinengewehr)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Firearms (Rifle/Shotgun)": {
+			"name": "Feuerwaffen (Gewehr/Schrotflinte)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Firearms (Submachine Gun)": {
+			"name": "Feuerwaffen (Maschinenpistole)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"First Aid": {
+			"name": "Erste Hilfe",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Gambling": {
+			"name": "Glücksspiel",
+			"description": "<p>Siehe das Down Darker Trails Regelwerk</p>"
+		},
+		"History": {
+			"name": "Geschichte",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Hypnosis": {
+			"name": "Hypnose",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Intimidate": {
+			"name": "Einschüchtern",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Jump": {
+			"name": "Springen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Language (Any)": {
+			"name": "Sprache (Beliebig)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Language (Own)": {
+			"name": "Sprache (Eigene)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Law": {
+			"name": "Rechtskunde",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Library Use": {
+			"name": "Bibliotheksnutzung",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Listen": {
+			"name": "Hören",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Locksmith": {
+			"name": "Schlossknacken",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Lore (Any)": {
+			"name": "Wissen (Beliebig)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Mechanical Repair": {
+			"name": "Mechanische Reparatur",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Medicine": {
+			"name": "Medizin",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Natural World": {
+			"name": "Naturkunde",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Navigate": {
+			"name": "Navigation",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Occult": {
+			"name": "Okkultismus",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Operate Heavy Machinery": {
+			"name": "Schwere Maschinen bedienen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Persuade": {
+			"name": "Überreden",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Pilot (Any)": {
+			"name": "Pilot (Beliebig)",
+			"description": "<p>In Berufen / Archetypen verwenden, um eine Pilot-Fertigkeit auszuwählen</p>"
+		},
+		"Pilot (Aircraft)": {
+			"name": "Pilot (Flugzeug)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Pilot (Boat)": {
+			"name": "Pilot (Boot)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Pilot (Submarine)": {
+			"name": "Pilot (U-Boot)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Pilot (Tank)": {
+			"name": "Pilot (Panzer)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Pilot (Zeppelin)": {
+			"name": "Pilot (Zeppelin)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Psychology": {
+			"name": "Psychologie",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Psychoanalysis": {
+			"name": "Psychoanalyse",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Ride": {
+			"name": "Reiten",
+			"description": "<p>Siehe das Down Darker Trails Regelwerk</p>"
+		},
+		"Science (Any)": {
+			"name": "Wissenschaft (Beliebig)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Astronomy)": {
+			"name": "Wissenschaft (Astronomie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Biology)": {
+			"name": "Wissenschaft (Biologie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Chemistry)": {
+			"name": "Wissenschaft (Chemie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Cryptography)": {
+			"name": "Wissenschaft (Kryptografie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Engineering)": {
+			"name": "Wissenschaft (Ingenieurwesen)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Forensics)": {
+			"name": "Wissenschaft (Forensik)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Geology)": {
+			"name": "Wissenschaft (Geologie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Mathematics)": {
+			"name": "Wissenschaft (Mathematik)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Meteorology)": {
+			"name": "Wissenschaft (Meteorologie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Pharmacy)": {
+			"name": "Wissenschaft (Pharmazie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Physics)": {
+			"name": "Wissenschaft (Physik)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Science (Zoology)": {
+			"name": "Wissenschaft (Zoologie)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Sleight of Hand": {
+			"name": "Fingerfertigkeit",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Spot Hidden": {
+			"name": "Verborgenes erkennen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Stealth": {
+			"name": "Schleichen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Survival (Any)": {
+			"name": "Überleben (Beliebig)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Survival (Arctic)": {
+			"name": "Überleben (Arktis)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Survival (Desert)": {
+			"name": "Überleben (Wüste)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Survival (Jungle)": {
+			"name": "Überleben (Dschungel)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Survival (Mountains)": {
+			"name": "Überleben (Berge)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Survival (Plains)": {
+			"name": "Überleben (Ebenen)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Survival (Sea)": {
+			"name": "Überleben (Meer)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Survival (Urban)": {
+			"name": "Überleben (Urban)",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Swim": {
+			"name": "Schwimmen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Throw": {
+			"name": "Werfen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		},
+		"Track": {
+			"name": "Fährtenlesen",
+			"description": "<p>Siehe das Call of Cthulhu - 7. Ed Grundregelwerk</p>"
+		}
+	}
+}

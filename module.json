@@ -1,0 +1,37 @@
+{
+  "name": "coc7-babele-de",
+  "title": "Translation: Deutsch (Call of Cthulhu 7th edition)",
+  "description": "Deutsche Übersetzung für Call of Cthulhu",
+  "version": "0.1",
+  "minimumCoreVersion" : "12",
+  "compatibleCoreVersion":"12",
+  "author": "Do660",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "2.5.6"
+    },
+    {
+      "name": "CoC7",
+      "type": "system",
+      "version": "7.4"
+    }
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "system": "CoC7",
+  "systemVersion": "7.4",
+  "url": "https://github.com/Do660/coc7-babele-de",
+  "manifest": "https://raw.githubusercontent.com/Do660/coc7-babele-de/main/module.json",
+  "download": "https://github.com/Do660/coc7-babele-de/archive/main.zip"
+}

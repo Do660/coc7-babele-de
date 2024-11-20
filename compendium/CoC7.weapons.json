@@ -1,0 +1,181 @@
+{
+	"label": "Waffen | de",
+	"entries": {
+		".22 Bolt-Action Rifle": {
+			"name": ".22 Repetiergewehr",
+			"description": ""
+		},
+		".22 Short Automatic": {
+			"name": ".22 Kurz Automatik",
+			"description": ""
+		},
+		".25 Derringer (1B)": {
+			"name": ".25 Derringer (1B)",
+			"description": ""
+		},
+		".30 Browning M1917A1": {
+			"name": ".30 Browning M1917A1",
+			"description": ""
+		},
+		".30 Lever-Action Carbine": {
+			"name": ".30 Unterhebelrepetierkarabiner",
+			"description": ""
+		},
+		".30-06 Bolt-Action Rifle": {
+			"name": ".30-06 Repetiergewehr",
+			"description": ""
+		},
+		".303 Lee-Enfield": {
+			"name": ".303 Lee-Enfield",
+			"description": ""
+		},
+		".32 or 7.65mm Automatic": {
+			"name": ".32 oder 7,65mm Automatik",
+			"description": ""
+		},
+		".32 or 7.65mm Revolver": {
+			"name": ".32 oder 7,65mm Revolver",
+			"description": ""
+		},
+		".45 Automatic": {
+			"name": ".45 Automatik",
+			"description": ""
+		},
+		".45 Martini-Henry Rifle": {
+			"name": ".45 Martini-Henry-Gewehr",
+			"description": ""
+		},
+		".45 Revolver": {
+			"name": ".45 Revolver",
+			"description": ""
+		},
+		"12-gauge Shotgun (2B sawed off)": {
+			"name": "12-Gauge Schrotflinte (2B abgesägt)",
+			"description": ""
+		},
+		"12-gauge Shotgun (2B)": {
+			"name": "12-Gauge Schrotflinte (2B)",
+			"description": ""
+		},
+		"12-gauge Shotgun (semi-auto)": {
+			"name": "12-Gauge Schrotflinte (halbautomatisch)",
+			"description": ""
+		},
+		"16-gauge Shotgun (2B)": {
+			"name": "16-Gauge Schrotflinte (2B)",
+			"description": ""
+		},
+		"20-gauge Shotgun (2B)": {
+			"name": "20-Gauge Schrotflinte (2B)",
+			"description": ""
+		},
+		"Bergmann MP181/MP2811": {
+			"name": "Bergmann MP181/MP2811",
+			"description": ""
+		},
+		"Blackjack": {
+			"name": "Schlagstock",
+			"description": ""
+		},
+		"Bow": {
+			"name": "Bogen",
+			"description": ""
+		},
+		"Brass Knuckles": {
+			"name": "Schlagring",
+			"description": ""
+		},
+		"Bren Gun": {
+			"name": "Bren-Maschinengewehr",
+			"description": ""
+		},
+		"Browning Auto Rifle M1918": {
+			"name": "Browning Automatikgewehr M1918",
+			"description": ""
+		},
+		"Bullwhip": {
+			"name": "Peitsche",
+			"description": ""
+		},
+		"Burning Torch": {
+			"name": "Brennende Fackel",
+			"description": ""
+		},
+		"Club, Large": {
+			"name": "Keule, groß",
+			"description": ""
+		},
+		"Club, Small": {
+			"name": "Keule, klein",
+			"description": ""
+		},
+		"Col. Moran's Air Rifle": {
+			"name": "Col. Morans Luftgewehr",
+			"description": ""
+		},
+		"Crossbow": {
+			"name": "Armbrust",
+			"description": ""
+		},
+		"Elephant Gun (2B)": {
+			"name": "Elefantengewehr (2B)",
+			"description": ""
+		},
+		"Garrote": {
+			"name": "Würgedraht",
+			"description": ""
+		},
+		"Hatchet/Sickle": {
+			"name": "Beil/Sichel",
+			"description": ""
+		},
+		"Knife, Large": {
+			"name": "Messer, groß",
+			"description": ""
+		},
+		"Knife, Medium": {
+			"name": "Messer, mittel",
+			"description": ""
+		},
+		"Knife, Small": {
+			"name": "Messer, klein",
+			"description": ""
+		},
+		"Mark I Lewis Gun": {
+			"name": "Mark I Lewis-Maschinengewehr",
+			"description": ""
+		},
+		"Model P08 Luger": {
+			"name": "Modell P08 Luger",
+			"description": ""
+		},
+		"Nunchaku": {
+			"name": "Nunchaku",
+			"description": ""
+		},
+		"Rock, Thrown": {
+			"name": "Stein, geworfen",
+			"description": ""
+		},
+		"Shuriken": {
+			"name": "Shuriken",
+			"description": ""
+		},
+		"Spear": {
+			"name": "Speer",
+			"description": ""
+		},
+		"Spear, Thrown": {
+			"name": "Speer, geworfen",
+			"description": ""
+		},
+		"Thompson": {
+			"name": "Thompson",
+			"description": ""
+		},
+		"Vickers .303": {
+			"name": "Vickers .303",
+			"description": ""
+		}
+	}
+}
