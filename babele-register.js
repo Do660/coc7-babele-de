@@ -7,7 +7,5 @@ Hooks.on('init', () => {
 			lang: 'de',
 			dir: 'compendium'
 		});
-		
-		document.getElementById("logo").src="/modules/coc7-babele-de/img/tentacleanvil.webp";
 	}
 });
