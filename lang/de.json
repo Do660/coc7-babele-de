@@ -1366,6 +1366,6 @@
   "CoC7.ErrorOpposedRollsLimitedToTwoActors": "Ein gegenüberstellender Wurf benötigt zwei Figuren",
   "CoC7.PauseName": "Zeitstopp",
 
-  "CoC7.CoCIDFlag.keys.i.skill.rope-use": "Lasso werfen"
+  "CoC7.CoCIDFlag.keys.i.skill.rope-use": "Lasso werfen",
   "CoC7.CoCIDFlag.keys.i.skill.science-botany": "Wissenschaft (Botanik)"
 }
