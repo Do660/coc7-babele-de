@@ -2,7 +2,7 @@
   "id": "coc7-babele-de",
   "title": "Translation: Deutsch (Call of Cthulhu 7th edition)",
   "description": "Deutsche Übersetzung für Call of Cthulhu",
-  "version": "0.2",
+  "version": "0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -41,5 +41,5 @@
   "system": "CoC7",
   "url": "https://github.com/Do660/coc7-babele-de",
   "manifest": "https://raw.githubusercontent.com/Do660/coc7-babele-de/main/module.json",
-  "download": "https://github.com/Do660/coc7-babele-de/archive/refs/tags/v0.2.zip"
+  "download": "https://github.com/Do660/coc7-babele-de/archive/refs/tags/v0.1.zip"
 }
